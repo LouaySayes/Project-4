@@ -1,9 +1,3 @@
-HEY
-Hello World
-Steeven
-yoooooooooooooop
-dfgdsrfhdrwhjd
-Petites annonces
 
 Projet en groupe - Temps estimés : 15 jours
 Technologies, outils et concept travaillés : HTML / CSS, PHP, POO, MVC, AltoRouter,
