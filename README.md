@@ -1,4 +1,3 @@
-Petites annonces
 
 Projet en groupe - Temps estimés : 15 jours
 Technologies, outils et concept travaillés : HTML / CSS, PHP, POO, MVC, AltoRouter,
@@ -38,7 +37,7 @@ pour l’utilisateur.
 
 
 
-Les +
+Les ++++++
 
 
 1. Tâche cron qui supprime les annonces qui sont en attente de publication à n+2 jours de
