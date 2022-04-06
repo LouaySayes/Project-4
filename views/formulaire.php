@@ -1,3 +1,8 @@
+<?php
+require "../controllers/Create.php";
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
