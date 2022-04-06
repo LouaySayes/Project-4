@@ -6,11 +6,6 @@
    PRIMARY KEY('id_users')
 )";
 
-"CREATE TABLE 'category'(
-   id_category INT,
-   category VARCHAR(50) ,
-   PRIMARY KEY(id_category)
-)";
 
 "CREATE TABLE 'ad'(
    'id_ad' INT,
