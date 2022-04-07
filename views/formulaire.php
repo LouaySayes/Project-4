@@ -1,5 +1,8 @@
 <?php
-require "../controllers/Create.php";
+require "../controllers/Create.php"; // à vérifier
+
+require './models/Connect.php'; // à vérifier
+
 ?>
 
 
@@ -16,7 +19,7 @@ require "../controllers/Create.php";
     <title>Document</title>
 </head>
 <body>
-<form action='formulaire.php' method="POST" class="form">
+<form action='./controllers/Create.php' method="POST" class="form">
     <div class="input-title">
         <label>Titre :</label>
         <input name='title' type="text">

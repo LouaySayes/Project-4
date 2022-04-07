@@ -1,5 +1,8 @@
 <?php
 
+require './models/Connect.php';// à vérifier
+
+
 class Delete
 {
 
